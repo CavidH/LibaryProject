@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{8B54B54E-782C-4298-BDB4-BED14D77E2B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyException", "MyException\MyException.csproj", "{7E2AEC48-7739-4032-8BAC-8D5ACF16C8DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validaator", "Validaator\Validaator.csproj", "{C4AF0975-0CCD-47C6-B76E-B9872E0EECD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B54B54E-782C-4298-BDB4-BED14D77E2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B54B54E-782C-4298-BDB4-BED14D77E2B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B54B54E-782C-4298-BDB4-BED14D77E2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B54B54E-782C-4298-BDB4-BED14D77E2B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2AEC48-7739-4032-8BAC-8D5ACF16C8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2AEC48-7739-4032-8BAC-8D5ACF16C8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2AEC48-7739-4032-8BAC-8D5ACF16C8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2AEC48-7739-4032-8BAC-8D5ACF16C8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4AF0975-0CCD-47C6-B76E-B9872E0EECD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4AF0975-0CCD-47C6-B76E-B9872E0EECD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4AF0975-0CCD-47C6-B76E-B9872E0EECD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4AF0975-0CCD-47C6-B76E-B9872E0EECD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
